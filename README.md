@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/5cd63373-e806-474f-94ec-6e04963bf90f"
+   <img src="https://github.com/user-attachments/assets/5cd63373-e806-47c-6e04963bf90f"
         alt="Video2X: A machine learning-based video super resolution and frame interpolation framework."/>
    </br>
    <img src="https://img.shields.io/github/v/release/k4yt3x/video2x?style=flat-square"/>
